@@ -1,5 +1,7 @@
 # amybr0st
 
+# GitHub Flavored Markdown Syntax
+
 # Header h1
 ## Header h2
 ###### Header h6
@@ -25,3 +27,16 @@ Table heading | Table heading
 -------------- | ---------------
 Content cell 1 | Content cell 2
 Content column 1 | Content column 2
+
+## Emoji  
+[Emoji](http://emoji-cheat-sheet.column)
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:  
+
+## Task list  
+- [x] create new repo
+- [x] create branch
+- [x] open pull request
+- [x] merge pull request/commit to master
+- [x] make edits in GitHub Desktop
+- [x] commit to master
+- [ ] learn GitHub Pages
