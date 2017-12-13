@@ -20,3 +20,8 @@ __bold__
 
 Blockquote:  
 > This is my quote.
+
+Table heading | Table heading
+-------------- | ---------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
